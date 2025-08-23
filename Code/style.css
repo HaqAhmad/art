@@ -1,0 +1,168 @@
+.container{
+    display: flex;
+    width: 1440px;
+    height: 950px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px 30px 0px 0px;
+    margin: 50px auto;
+    box-shadow: 0px -21px 15px -11px rgba(173, 173, 173, 0.79);
+    position: relative;
+}
+
+.bar{
+    display: flex;
+    width: 219px;
+    height: 9px;
+    position: absolute;
+    top: 32px;
+    left: 611px;
+    background-color: #DFDFDF;
+    border-radius: 10px;
+}
+
+.left_img{
+    margin-left: 59px;
+    margin-top: 87px;
+}
+
+/* RIGHT SIDE */
+/* RIGHT SIDE */
+/* RIGHT SIDE */
+/* RIGHT SIDE */
+/* RIGHT SIDE */
+
+.right{
+    display: flex;
+    position: absolute;
+    top: 87.48px;
+    right: 235.62px;
+    max-width: 400px;
+}
+
+.right_content{
+    display: flex;
+    flex-direction: column;
+}
+
+.header_1{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.heading_1{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Jost", sans-serif;
+    
+}
+
+.icon_1{
+    width: 22px;
+    height: 21.94px;
+}
+
+.heading_2{
+    font-size: 22px;
+    color: #929292;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+}
+
+.heading_2 .link_1{
+color: #B600D1;
+}
+
+.views_likes{
+    display: flex;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    position: relative;
+    top: 19.52px;
+    gap: 40px;
+}
+
+.views{
+    display: flex;
+    gap: 8px;
+}
+
+.likes{
+    display: flex;
+    gap: 8px;
+}
+
+.icon_like{
+    display: flex;
+    width: 26px;
+    height: 23px;
+    position: relative;
+    top: 4px;
+}
+.icon_eye{
+    display: flex;
+    width: 26px;
+    height: 23px;
+    position: relative;
+    top: 4px;
+}
+
+
+.text_1{
+    position: relative;
+    text-align: left;
+    top: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #929292;
+}
+
+
+.heading_3{
+    color: #6F6F6F;
+    gap: 235px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.heading_4{
+    display: flex;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.left_person{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.left2_img{
+    width: 53px;
+    height: 53px;
+}
+
+.right2_img{
+    width: 53px;
+    height: 53px;
+}
+
+.right_person{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+
+
+
