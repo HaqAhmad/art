@@ -7,6 +7,7 @@
     margin: 50px auto;
     box-shadow: 0px -21px 15px -11px rgba(173, 173, 173, 0.79);
     position: relative;
+    font-family: "Jost", sans-serif;
 }
 
 .bar{
@@ -162,7 +163,76 @@ color: #B600D1;
     align-items: center;
 }
 
+.sct7{
+    display: flex;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    margin-top: 35px;
+    justify-content: space-between;
+    gap: 90px;
+    color: #929292;
+}
+
+.sct7_left{
+    display: flex;
+    width: 311.806884765625px;
+    height: 34.0137939453125px;
+    justify-content: space-between;
+    
+}
+
+.slft{
+    display: flex;
+    border: 2px solid #929292;
+    width: 84.81px;
+    height: 30.01px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.sct7_right{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
 
 
+.srgt2{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 5px;
+    height: 5px;
+}
 
+.srgt{
+    color: #6F6F6F;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+}
+
+.howner{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #929292;
+    margin-top: 14px;
+}
+
+.osection{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.oname{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #121212;
+}
 
