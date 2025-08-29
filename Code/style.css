@@ -236,3 +236,102 @@ color: #B600D1;
     color: #121212;
 }
 
+.price_section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.prc_left1{
+    display: flex;
+    flex-direction: column;
+}
+
+.cprice{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #929292;
+}
+
+.dollars{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Jost", sans-serif;
+    color: #121212;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.prc_left2{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #6F6F6F;
+}
+
+.prc_right{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.stock_num{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Jost", sans-serif;
+    color: #121212;
+}
+
+.stock{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #929292; 
+}
+
+.tc{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 31px;
+}
+
+.tc .checkbox input[type="checkbox"] {
+    display: flex;
+    align-items: center;
+  width: 25px;
+  height: 25px;
+  accent-color: #B600D1;
+  cursor: pointer;
+}
+
+.conditions{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #929292; 
+}
+
+
+.btnfinal{
+    display: flex;
+    color: white;
+    font-size: 22px;
+    font-family: "poppins", sans-serif;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    width: 269.47314453125px;
+    height: 53.33333206176758px;
+    border-radius: 10px;
+    margin-top: 29px;
+    background-image: linear-gradient(90deg, #2636D9, #B600D1);
+
+}
